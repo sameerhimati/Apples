@@ -1,7 +1,9 @@
 Apples
 ==============================
 
-Here we do some Exploratory Data Analysis and perhaps run a couple of Classification models
+Here we do some Exploratory Data Analysis and perhaps run a couple of Classification models.
+
+Data source is from the Kaggle project <a target="_blank" href="https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality/data">here</a>.
 
 Project Organization
 ------------
